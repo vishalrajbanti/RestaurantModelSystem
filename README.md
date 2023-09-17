@@ -107,19 +107,19 @@ In the Restaurant Model  System project, the following data structures are used:
 
 ## Key Features
 
-The User Management System is designed to provide efficient user management capabilities. Here are the key features of this application:
+The User Management System is designed to provide efficient restaurant model. Here are the key features of this application:
 
-### 1. User CRUD Operations
+### 1. RESTAURANT CRUD OPERATIONS
 
-- **Add User**: Create new user profiles by providing essential details, including name, username, address, and phone number.
+- **Add restaurant**: Create new restaurant. 
 
-- **Get User by UserId**: Retrieve user information by specifying a unique user ID.
+- **Get restaurant by restaurantId**: Retrieve restaurant information by specifying a unique restaurant ID.
 
-- **Get All Users**: Retrieve a list of all users in the system.
+- **Get All restaurants**: Retrieve a list of all restaurants in the system.
 
-- **Update User Information**: Modify user information, including their name, username, address, and phone number.
+- **Update restaurant Information**: Modify restaurant information.
 
-- **Delete User**: Permanently remove user profiles from the system.
+- **Delete restaurant**: Permanently remove restaurant  from the system.
 
 ### 2. Scalable and Maintainable Architecture
 
